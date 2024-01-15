@@ -1,3 +1,4 @@
+```
 graph TD
     subgraph Decision Support
         DS((Decision Support System))
@@ -34,3 +35,4 @@ graph TD
     style NWDAF_Analytics fill:#bbf,stroke:#333,stroke-width:1px
     style Issues_Identification fill:#bbf,stroke:#333,stroke-width:1px
     style Strategy_Development fill:#bbf,stroke:#333,stroke-width:1px
+```
